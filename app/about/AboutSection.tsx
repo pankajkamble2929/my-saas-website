@@ -115,8 +115,8 @@ export default function AboutPage() {
                   <span className="font-semibold text-gray-900">{name}</span>
                 </div>
                 <p className="text-gray-800 text-sm md:text-base">
-                  "Working with this platform has transformed our workflow.
-                  Highly recommend it!"
+                  &quot;Working with this platform has transformed our workflow.
+                  Highly recommend it!&quot;
                 </p>
               </motion.div>
             ))}
