@@ -13,21 +13,11 @@ It’s a modern SaaS landing page with features, pricing, about, and contact sec
 
 ## Getting Started
 
-Install dependencies:
-npm install
-# or
-yarn install
-# or
-pnpm install
+### Install dependencies:
+- npm install 
 
-Run the development server:
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Run the development server:
+- npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the website.
 
