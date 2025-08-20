@@ -33,7 +33,7 @@ export default function Contact() {
             Get in Touch
           </h2>
           <p className="text-[var(--color-foreground)] text-lg mb-8 text-center md:text-left">
-            Have questions or want to work with us? Fill out the form below and we&apos;ll get back to you promptly.
+            Have questions or want to work with us? Fill out the form below and we'll get back to you promptly.
           </p>
 
           <form className="space-y-6 text-left">
@@ -93,6 +93,8 @@ export default function Contact() {
             </button>
           </form>
         </div>
+
+        
       </div>
     </section>
   );
